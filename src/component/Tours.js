@@ -4,7 +4,7 @@
         <div className="container">
             <div>
                 <h2 className='title'>
-                    Plan Your Career
+                    Plan With Gujjar
                 </h2>
             </div>
             <div className='cards'>
